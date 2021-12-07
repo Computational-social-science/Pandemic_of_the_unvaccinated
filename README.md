@@ -10,7 +10,7 @@ In the global online news coverage experiments, we aims to unveil the scientific
 **Figure S1**. Global discourse landscape of ‘_pandemic of the unvaccinated_’. According to a global news coverage analysis conducted between 16 July 2021 and 30 November 2021, up to 80 countries were exposed to divisive pronouncements. The top ten countries affected by the current tsunami are the United States, Germany, India, the United Kingdom, Russia, South Korea, Canada, Austria, France, and Micronesia, respectively.
 
 **Experimental corpus**：[The GDELT Project](https://www.gdeltproject.org/)
-* 65 multilingual online news coverage
+* 65+ multilingual online news coverage
 * Machine translation capacity
 * Network image recognition capacity
 * Textual and visual narratives of different queries
