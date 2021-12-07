@@ -3,10 +3,10 @@
 In the global online news coverage experiments, we aim to unveil the scientific paradigms of the diachronic discourse. Here, the metadata analysis aims to demonstrate the unintended consequences of global online news on ‘pandemic of the unvaccinated’.
 
 Experimental corpus：GDELT
-* The textual and visual narratives of different queries
-*	65 multilingual online news
+*	65 multilingual online news coverage
 *	Machine translation capacity
 *	Network image recognition capacity
+* Textual and visual narratives of different queries
 
 ![image](https://github.com/Computational-social-science/Pandemic_of_the_unvaccinated/blob/main/Global%20discourse%20landscape.png)
 
