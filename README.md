@@ -18,3 +18,10 @@ In the global online news coverage experiments, we aims to unveil the scientific
 * Textual and visual narratives of different queries
 
 According to our survey, such plausible statements are shaping global discourse, capturing the attention of English-language media outlets in more than 80 countries as of 30 November.
+
+![image](%E2%80%98pandemic%20of%20the%20unvaccinated%E2%80%99_Twitter_300DPI.png)
+
+**Figure S2**. Global narratives of ‘the vaccinated’ and ‘the unvaccinated’ on Twitter. According to rich metadata of [the Storywrangler](https://storywrangling.org/), the series reflect the normalized frequencies of narratively trending 2-grams ‘the vaccinated’ and ‘the unvaccinated’ in English tweets and retweets, before and after the dubbed ‘pandemic of the unvaccinated’ took the epicenter of COVID-19 infodemic. The knock-on effects demonstrate that such contentious tsunami would exacerbate dualistic antagonism and heighten the risk of disorder in western social governance.
+
+# Citation
+Zhiwen Hu, Ya Chen. Open debates conducive for vaccination rate flatlines: a systematic review. _Frontiers in Public Health_. (2022).
