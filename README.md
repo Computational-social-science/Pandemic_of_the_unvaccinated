@@ -17,7 +17,7 @@ In the global online news coverage experiments, we aims to unveil the scientific
 * Network image recognition capacity
 * Textual and visual narratives of different queries
 
-According to our survey, such plausible statements are shaping global discourse, capturing the attention of English-language media outlets in more than 80 countries as of 30 November.
+According to our survey, such plausible statements are shaping global discourse, capturing the attention of English-language media outlets in more than 80 countries as of 30 November 2021.
 
 ![image](%E2%80%98pandemic%20of%20the%20unvaccinated%E2%80%99_Twitter_300DPI.png)
 
